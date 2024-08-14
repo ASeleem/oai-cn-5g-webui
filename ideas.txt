@@ -1,0 +1,3 @@
+# To have a dashboard to input a new user, view all users, view current active users and their info.
+# To have a dashboard to configure the gnb and run the gnb, to view metrics from running gnbs
+# To have a dashboard to collect metrics from the running 5gcore compnents. 
